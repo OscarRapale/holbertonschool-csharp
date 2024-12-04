@@ -1,4 +1,4 @@
-﻿namespace _4_print_integer;
+﻿using System;
 
 class Program
 {
