@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp-hello_world", "cshar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0-new_project", "csharp-hello_world\0-new_project\0-new_project.csproj", "{CF82CD45-60F6-4BFF-A4CF-F040B560F2EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-print_integer", "csharp-hello_world\4-print_integer\4-print_integer.csproj", "{2AD4E5CB-4E18-467C-A8BE-AE7F1085A38F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{CF82CD45-60F6-4BFF-A4CF-F040B560F2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF82CD45-60F6-4BFF-A4CF-F040B560F2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF82CD45-60F6-4BFF-A4CF-F040B560F2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD4E5CB-4E18-467C-A8BE-AE7F1085A38F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD4E5CB-4E18-467C-A8BE-AE7F1085A38F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD4E5CB-4E18-467C-A8BE-AE7F1085A38F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD4E5CB-4E18-467C-A8BE-AE7F1085A38F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CF82CD45-60F6-4BFF-A4CF-F040B560F2EE} = {A320810C-19DC-4913-A68C-193E843A1C4D}
+		{2AD4E5CB-4E18-467C-A8BE-AE7F1085A38F} = {A320810C-19DC-4913-A68C-193E843A1C4D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}
