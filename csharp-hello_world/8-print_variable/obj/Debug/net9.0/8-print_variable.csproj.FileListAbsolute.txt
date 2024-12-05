@@ -1,0 +1,15 @@
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\bin\Debug\net9.0\8-print_variable.exe
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\bin\Debug\net9.0\8-print_variable.deps.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\bin\Debug\net9.0\8-print_variable.runtimeconfig.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\bin\Debug\net9.0\8-print_variable.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\bin\Debug\net9.0\8-print_variable.pdb
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\8-print_variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\8-print_variable.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\8-print_variable.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\8-print_variable.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\8-print_variable.sourcelink.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\8-print_variable.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\refint\8-print_variable.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\8-print_variable.pdb
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\8-print_variable.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\8-print_variable\obj\Debug\net9.0\ref\8-print_variable.dll
