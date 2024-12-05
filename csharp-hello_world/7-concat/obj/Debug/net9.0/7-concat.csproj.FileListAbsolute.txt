@@ -1,0 +1,15 @@
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\bin\Debug\net9.0\7-concat.exe
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\bin\Debug\net9.0\7-concat.deps.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\bin\Debug\net9.0\7-concat.runtimeconfig.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\bin\Debug\net9.0\7-concat.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\bin\Debug\net9.0\7-concat.pdb
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\7-concat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\7-concat.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\7-concat.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\7-concat.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\7-concat.sourcelink.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\7-concat.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\refint\7-concat.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\7-concat.pdb
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\7-concat.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hello_world\7-concat\obj\Debug\net9.0\ref\7-concat.dll
