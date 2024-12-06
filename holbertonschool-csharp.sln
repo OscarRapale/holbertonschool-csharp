@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp-ifelse_loops_methods
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0-positive_or_negative", "csharp-ifelse_loops_methods\0-positive_or_negative\0-positive_or_negative.csproj", "{32BF2710-DF09-4C79-A22F-46D2E05DEF66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-last_digit", "csharp-ifelse_loops_methods\1-last_digit\1-last_digit.csproj", "{973D8DB6-E8AC-4EB7-929A-92ED0522B4A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{32BF2710-DF09-4C79-A22F-46D2E05DEF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32BF2710-DF09-4C79-A22F-46D2E05DEF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32BF2710-DF09-4C79-A22F-46D2E05DEF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{973D8DB6-E8AC-4EB7-929A-92ED0522B4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{973D8DB6-E8AC-4EB7-929A-92ED0522B4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{973D8DB6-E8AC-4EB7-929A-92ED0522B4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{973D8DB6-E8AC-4EB7-929A-92ED0522B4A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -94,6 +100,7 @@ Global
 		{C04C2E24-BDC2-41A8-96A5-D422C4C8C350} = {A320810C-19DC-4913-A68C-193E843A1C4D}
 		{F6AED705-9037-49D8-8561-ED8D465D61C8} = {A320810C-19DC-4913-A68C-193E843A1C4D}
 		{32BF2710-DF09-4C79-A22F-46D2E05DEF66} = {8D4F6D76-2A8C-4F5C-B40B-36C42A44F826}
+		{973D8DB6-E8AC-4EB7-929A-92ED0522B4A7} = {8D4F6D76-2A8C-4F5C-B40B-36C42A44F826}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}

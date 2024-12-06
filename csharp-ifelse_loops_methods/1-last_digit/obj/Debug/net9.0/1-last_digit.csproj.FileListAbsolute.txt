@@ -1,0 +1,15 @@
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net9.0\1-last_digit.exe
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net9.0\1-last_digit.deps.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net9.0\1-last_digit.runtimeconfig.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net9.0\1-last_digit.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\bin\Debug\net9.0\1-last_digit.pdb
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\1-last_digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\1-last_digit.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\1-last_digit.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\1-last_digit.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\1-last_digit.sourcelink.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\1-last_digit.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\refint\1-last_digit.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\1-last_digit.pdb
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\1-last_digit.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\1-last_digit\obj\Debug\net9.0\ref\1-last_digit.dll
