@@ -1,4 +1,4 @@
-﻿namespace _4_print_hexa;
+﻿using System;
 
 class Program
 {

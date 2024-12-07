@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3-print_alphabt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7eb5b2490131df9d947b43b9e1c45bcd2d812b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1bc3caa1ea45cda009db5a9ea79c599ee83d184")]
 [assembly: System.Reflection.AssemblyProductAttribute("3-print_alphabt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3-print_alphabt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

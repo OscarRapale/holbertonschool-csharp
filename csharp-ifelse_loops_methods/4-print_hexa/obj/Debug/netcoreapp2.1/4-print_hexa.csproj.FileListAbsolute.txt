@@ -1,0 +1,6 @@
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\4-print_hexa\obj\Debug\netcoreapp2.1\4-print_hexa.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\4-print_hexa\obj\Debug\netcoreapp2.1\4-print_hexa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\4-print_hexa\obj\Debug\netcoreapp2.1\4-print_hexa.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\4-print_hexa\obj\Debug\netcoreapp2.1\4-print_hexa.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\4-print_hexa\obj\Debug\netcoreapp2.1\4-print_hexa.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-ifelse_loops_methods\4-print_hexa\obj\Debug\netcoreapp2.1\4-print_hexa.sourcelink.json
