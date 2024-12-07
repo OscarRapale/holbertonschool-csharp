@@ -1,4 +1,4 @@
-﻿namespace _6_print_comb2;
+﻿using System;
 
 class Program
 {
