@@ -4,17 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        for (int i = 0; i < 100; i++)
+        for (int i = 0; i <= 99; i++)
         {
-            string formattedNumber = $"{i:D2}";
-            if (i < 99)
-            {
-                Console.Write($"{formattedNumber}, ");
-            }
-            else
-            {
-                Console.Write($"{formattedNumber}\n");
-            }
+            Console.Write(i < 99 ? $"{i:D2}, " : $"{i:D2}");
         }
+        Console.Write("\n");
     }
 }
