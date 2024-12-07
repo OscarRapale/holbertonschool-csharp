@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11-print_diagonal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29048ae6ecf00f84d9733d81bde5192e49b4a27e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1cf167f34d258c14f1667e8d390e6a47ca00f21")]
 [assembly: System.Reflection.AssemblyProductAttribute("11-print_diagonal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11-print_diagonal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
