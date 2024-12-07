@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-print_diagonal", "csharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-fizzbuzz", "csharp-ifelse_loops_methods\12-fizzbuzz\12-fizzbuzz.csproj", "{3B81C7ED-A9BF-42D8-A416-1B7AF7AB6E3A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp-arrays_lists_dictionaries", "csharp-arrays_lists_dictionaries", "{FEE04D8E-811D-4DD3-B586-0F0ED1A36718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0-print_array", "csharp-arrays_lists_dictionaries\0-print_array\0-print_array.csproj", "{54362A8D-74DB-412B-97C7-9D0BA7D7477C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +155,10 @@ Global
 		{3B81C7ED-A9BF-42D8-A416-1B7AF7AB6E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B81C7ED-A9BF-42D8-A416-1B7AF7AB6E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B81C7ED-A9BF-42D8-A416-1B7AF7AB6E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54362A8D-74DB-412B-97C7-9D0BA7D7477C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54362A8D-74DB-412B-97C7-9D0BA7D7477C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54362A8D-74DB-412B-97C7-9D0BA7D7477C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54362A8D-74DB-412B-97C7-9D0BA7D7477C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -178,6 +186,7 @@ Global
 		{D1EC1E9F-7C7B-4707-ABF0-ADB43A96C923} = {8D4F6D76-2A8C-4F5C-B40B-36C42A44F826}
 		{CB719189-B0F4-4136-9D48-F35B08F930D4} = {8D4F6D76-2A8C-4F5C-B40B-36C42A44F826}
 		{3B81C7ED-A9BF-42D8-A416-1B7AF7AB6E3A} = {8D4F6D76-2A8C-4F5C-B40B-36C42A44F826}
+		{54362A8D-74DB-412B-97C7-9D0BA7D7477C} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}
