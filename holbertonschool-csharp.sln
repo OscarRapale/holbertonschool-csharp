@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-delete_key_value", "csha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-multiply_by_2", "csharp-arrays_lists_dictionaries\11-multiply_by_2\11-multiply_by_2.csproj", "{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-print_sorted_dictionary", "csharp-arrays_lists_dictionaries\12-print_sorted_dictionary\12-print_sorted_dictionary.csproj", "{0C5F22B9-FDC2-4001-8494-040E91DB763E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C5F22B9-FDC2-4001-8494-040E91DB763E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5F22B9-FDC2-4001-8494-040E91DB763E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5F22B9-FDC2-4001-8494-040E91DB763E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5F22B9-FDC2-4001-8494-040E91DB763E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -264,6 +270,7 @@ Global
 		{A2782B48-66D3-4A6A-B5AB-6496A1A3FF7F} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{64FE7124-7C1C-47FA-B627-6E50C4AE4D72} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
+		{0C5F22B9-FDC2-4001-8494-040E91DB763E} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}
