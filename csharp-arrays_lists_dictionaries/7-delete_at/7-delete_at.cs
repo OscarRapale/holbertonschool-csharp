@@ -9,15 +9,7 @@ class List
             Console.WriteLine("Index is out of range");
             return myList;
         }
-
-        List<int> updatedList = new List<int>();
-        for (int i = 0; i < myList.Count; i++)
-        {
-            if (i != index)
-            {
-                updatedList.Add(myList[i]);
-            }
-        }
-        return updatedList;
+        myList.Remove(myList[index]);
+        return myList;
     }
 }
