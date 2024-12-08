@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-best_score", "csharp-arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-rectangular_array", "csharp-arrays_lists_dictionaries\14-rectangular_array\14-rectangular_array.csproj", "{1EA9E42C-1067-4063-9EF7-7A188EE3E547}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-square_matrix", "csharp-arrays_lists_dictionaries\15-square_matrix\15-square_matrix.csproj", "{CDA4FBEB-7F9F-4EA1-8DF6-96832C20CA9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{1EA9E42C-1067-4063-9EF7-7A188EE3E547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EA9E42C-1067-4063-9EF7-7A188EE3E547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EA9E42C-1067-4063-9EF7-7A188EE3E547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA4FBEB-7F9F-4EA1-8DF6-96832C20CA9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA4FBEB-7F9F-4EA1-8DF6-96832C20CA9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA4FBEB-7F9F-4EA1-8DF6-96832C20CA9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA4FBEB-7F9F-4EA1-8DF6-96832C20CA9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -285,6 +291,7 @@ Global
 		{0C5F22B9-FDC2-4001-8494-040E91DB763E} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{E507EDF4-E9BD-40B7-8096-1B459EDC515B} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{1EA9E42C-1067-4063-9EF7-7A188EE3E547} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
+		{CDA4FBEB-7F9F-4EA1-8DF6-96832C20CA9A} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}
