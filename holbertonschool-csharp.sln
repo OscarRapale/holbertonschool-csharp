@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-add_key_value", "csharp-a
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-delete_key_value", "csharp-arrays_lists_dictionaries\10-delete_key_value\10-delete_key_value.csproj", "{64FE7124-7C1C-47FA-B627-6E50C4AE4D72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-multiply_by_2", "csharp-arrays_lists_dictionaries\11-multiply_by_2\11-multiply_by_2.csproj", "{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{64FE7124-7C1C-47FA-B627-6E50C4AE4D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64FE7124-7C1C-47FA-B627-6E50C4AE4D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64FE7124-7C1C-47FA-B627-6E50C4AE4D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -257,6 +263,7 @@ Global
 		{EFE92A29-70AD-405F-895B-C99F59F06000} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{A2782B48-66D3-4A6A-B5AB-6496A1A3FF7F} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{64FE7124-7C1C-47FA-B627-6E50C4AE4D72} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
+		{BD12CDA4-DF8F-47F4-B104-1DE07E7DB4D1} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}
