@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-divisible_by_2", "csharp-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-delete_at", "csharp-arrays_lists_dictionaries\7-delete_at\7-delete_at.csproj", "{8AF61671-0D0E-41AD-8FDD-2EB9D3FCCEE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-number_keys", "csharp-arrays_lists_dictionaries\8-number_keys\8-number_keys.csproj", "{EFE92A29-70AD-405F-895B-C99F59F06000}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{8AF61671-0D0E-41AD-8FDD-2EB9D3FCCEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AF61671-0D0E-41AD-8FDD-2EB9D3FCCEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AF61671-0D0E-41AD-8FDD-2EB9D3FCCEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFE92A29-70AD-405F-895B-C99F59F06000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE92A29-70AD-405F-895B-C99F59F06000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE92A29-70AD-405F-895B-C99F59F06000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE92A29-70AD-405F-895B-C99F59F06000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -236,6 +242,7 @@ Global
 		{6D66E834-217A-4227-BAC5-88BBB228F432} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{2DAECFA1-9D5F-46EF-8A67-EA1FB9756E88} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{8AF61671-0D0E-41AD-8FDD-2EB9D3FCCEE2} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
+		{EFE92A29-70AD-405F-895B-C99F59F06000} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}
