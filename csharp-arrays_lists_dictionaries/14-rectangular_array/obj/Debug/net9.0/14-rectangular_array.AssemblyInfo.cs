@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14-rectangular_array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1c70c2bf4314d066a08734763f05b78a6d0d285")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+878ca71d6df2fa54d2e889d924fb8d6e978efc32")]
 [assembly: System.Reflection.AssemblyProductAttribute("14-rectangular_array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14-rectangular_array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

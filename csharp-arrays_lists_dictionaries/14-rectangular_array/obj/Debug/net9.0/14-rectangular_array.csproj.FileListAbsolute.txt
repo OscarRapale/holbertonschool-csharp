@@ -1,0 +1,15 @@
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net9.0\14-rectangular_array.exe
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net9.0\14-rectangular_array.deps.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net9.0\14-rectangular_array.runtimeconfig.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net9.0\14-rectangular_array.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\bin\Debug\net9.0\14-rectangular_array.pdb
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\14-rectangular_array.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\14-rectangular_array.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\14-rectangular_array.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\14-rectangular_array.sourcelink.json
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\14-rectangular_array.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\refint\14-rectangular_array.dll
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\14-rectangular_array.pdb
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\14-rectangular_array.genruntimeconfig.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\net9.0\ref\14-rectangular_array.dll

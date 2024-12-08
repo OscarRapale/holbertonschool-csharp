@@ -1,4 +1,4 @@
-﻿namespace _14_rectangular_array;
+﻿using System;
 
 class Program
 {

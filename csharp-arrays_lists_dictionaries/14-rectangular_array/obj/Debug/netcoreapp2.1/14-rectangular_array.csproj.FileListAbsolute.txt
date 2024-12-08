@@ -1,0 +1,6 @@
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\netcoreapp2.1\14-rectangular_array.csproj.AssemblyReference.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\netcoreapp2.1\14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\netcoreapp2.1\14-rectangular_array.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\netcoreapp2.1\14-rectangular_array.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\netcoreapp2.1\14-rectangular_array.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-arrays_lists_dictionaries\14-rectangular_array\obj\Debug\netcoreapp2.1\14-rectangular_array.sourcelink.json
