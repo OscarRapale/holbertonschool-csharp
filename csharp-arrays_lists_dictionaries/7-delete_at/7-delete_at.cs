@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class List
 {
@@ -9,7 +10,15 @@ class List
             Console.WriteLine("Index is out of range");
             return myList;
         }
-        myList.Remove(myList[index]);
-        return myList;
+
+        List<int> updatedList = new List<int>();
+        for (int i = 0; i < myList.Count; i++)
+        {
+            if (i != index)
+            {
+                updatedList.Add(myList[i]);
+            }
+        }
+        return updatedList;
     }
 }
