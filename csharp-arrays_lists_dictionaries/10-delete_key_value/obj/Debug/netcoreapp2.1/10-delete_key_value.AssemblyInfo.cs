@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10-delete_key_value")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05276284aa64219502e63a6d162102d30313a4b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e67b3c6676cb68b4f94509b07404ebb199dff5e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("10-delete_key_value")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10-delete_key_value")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

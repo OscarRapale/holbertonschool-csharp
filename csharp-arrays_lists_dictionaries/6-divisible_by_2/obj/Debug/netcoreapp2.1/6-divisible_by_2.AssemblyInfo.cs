@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6-divisible_by_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca9a70d5aa9c6c3a408e1ef8f799292fde0b7f15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e67b3c6676cb68b4f94509b07404ebb199dff5e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("6-divisible_by_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6-divisible_by_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
