@@ -1,4 +1,5 @@
-﻿namespace _6_linkedlist_length;
+﻿using System;
+using System.Collections.Generic;
 
 class LList
 {
