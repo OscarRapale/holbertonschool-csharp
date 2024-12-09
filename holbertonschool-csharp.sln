@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0-unique_add", "csharp-hash
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-common_elements", "csharp-hashset_stack_queue_linkedlist\1-common_elements\1-common_elements.csproj", "{1A5A5ABB-D207-49EF-8A9A-E0AA9FE37016}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-different_elements", "csharp-hashset_stack_queue_linkedlist\2-different_elements\2-different_elements.csproj", "{65246A4C-F544-4DA3-B257-E9583221AB4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -263,6 +265,10 @@ Global
 		{1A5A5ABB-D207-49EF-8A9A-E0AA9FE37016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A5A5ABB-D207-49EF-8A9A-E0AA9FE37016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A5A5ABB-D207-49EF-8A9A-E0AA9FE37016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65246A4C-F544-4DA3-B257-E9583221AB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65246A4C-F544-4DA3-B257-E9583221AB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65246A4C-F544-4DA3-B257-E9583221AB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65246A4C-F544-4DA3-B257-E9583221AB4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -308,6 +314,7 @@ Global
 		{CDA4FBEB-7F9F-4EA1-8DF6-96832C20CA9A} = {FEE04D8E-811D-4DD3-B586-0F0ED1A36718}
 		{645D0978-C37D-4B23-9168-9F81BD590DD5} = {ADEF133A-E93A-4B7E-A3F3-8A41540BDBD8}
 		{1A5A5ABB-D207-49EF-8A9A-E0AA9FE37016} = {ADEF133A-E93A-4B7E-A3F3-8A41540BDBD8}
+		{65246A4C-F544-4DA3-B257-E9583221AB4D} = {ADEF133A-E93A-4B7E-A3F3-8A41540BDBD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}
