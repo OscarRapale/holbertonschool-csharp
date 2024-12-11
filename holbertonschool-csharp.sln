@@ -115,6 +115,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-linkedlist_sum", "csharp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-linkedlist_insert", "csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\12-linkedlist_insert.csproj", "{C92E67CC-9646-4249-B5D8-69C63EC69197}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-linkedlist_delete", "csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\13-linkedlist_delete.csproj", "{AE06FB06-1E1F-49A2-9849-2D818477149A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -329,6 +331,10 @@ Global
 		{C92E67CC-9646-4249-B5D8-69C63EC69197}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C92E67CC-9646-4249-B5D8-69C63EC69197}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C92E67CC-9646-4249-B5D8-69C63EC69197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE06FB06-1E1F-49A2-9849-2D818477149A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE06FB06-1E1F-49A2-9849-2D818477149A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE06FB06-1E1F-49A2-9849-2D818477149A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE06FB06-1E1F-49A2-9849-2D818477149A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -385,6 +391,7 @@ Global
 		{ED29C86C-6FCD-4783-96E2-E4F7EBBB54C5} = {ADEF133A-E93A-4B7E-A3F3-8A41540BDBD8}
 		{C9F6461D-9995-4870-AE73-5C1DE6DE868E} = {ADEF133A-E93A-4B7E-A3F3-8A41540BDBD8}
 		{C92E67CC-9646-4249-B5D8-69C63EC69197} = {ADEF133A-E93A-4B7E-A3F3-8A41540BDBD8}
+		{AE06FB06-1E1F-49A2-9849-2D818477149A} = {ADEF133A-E93A-4B7E-A3F3-8A41540BDBD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB665D64-D641-49C5-96D1-BE81E7118815}

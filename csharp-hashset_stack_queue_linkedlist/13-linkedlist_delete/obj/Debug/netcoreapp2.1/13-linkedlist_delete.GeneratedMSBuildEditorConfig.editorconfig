@@ -1,6 +1,6 @@
 is_global = true
-build_property.RootNamespace = _12_linkedlist_insert
-build_property.ProjectDir = C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\12-linkedlist_insert\
+build_property.RootNamespace = _13_linkedlist_delete
+build_property.ProjectDir = C:\Users\oscar\OneDrive\Documents\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
