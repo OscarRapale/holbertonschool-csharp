@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8-linkedlist_find")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a4b361c50221e792e7481709821a27c260c6d28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ee1c91bdc1590dbbe37631dc28057fcf2ef2362")]
 [assembly: System.Reflection.AssemblyProductAttribute("8-linkedlist_find")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8-linkedlist_find")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
