@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO.Pipelines;
 
-public class Int
+class Int
 {
     public static void divide(int a, int b)
     {
