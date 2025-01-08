@@ -43,6 +43,8 @@ namespace Enemies
             return this.health;
         }
 
+        /// <summary>Public override .toString()</summary>
+        /// <returns>Prints Zombie as a string</returns>
         public override string ToString() => $"Zombie Name: {name} / Total Health: {health}";
     }
 }
