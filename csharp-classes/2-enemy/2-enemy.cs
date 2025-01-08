@@ -11,7 +11,7 @@ namespace Enemies
         /// <summary>Public constructor</summary>
         public Zombie()
         {
-            health = 0;
+            this.health = 0;
         }
 
         public Zombie(int value)
