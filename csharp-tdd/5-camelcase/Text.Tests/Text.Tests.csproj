@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Text\Text.csproj" />
-    <ProjectReference Include="Text.Tests.csproj" />
   </ItemGroup>
 
 </Project>
